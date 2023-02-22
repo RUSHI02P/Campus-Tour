@@ -24,9 +24,6 @@ ant -buildfile myCampusTour/src/build.xml run -Darg0=campusTourError.txt -Darg1=
 
 Note: Arguments accept the absolute path of the files.
 
-## Instruction to create tar:
-
-#### Command ant -buildfile myCampusTour/src/build.xml tar
 -----------------------------------------------------------------------
 ## Description:
 Used Builder pattern to create an Itinerary for Campus Tour.
