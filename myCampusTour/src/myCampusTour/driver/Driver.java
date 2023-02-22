@@ -15,7 +15,8 @@ import myCampusTour.util.ErrorLog;
 import myCampusTour.util.MyLogger;
 
 /**
- * @author placeholder
+ * @author Rushi Patel
+   @email  rpatel99@binghamton.edu
  *
  */
 public class Driver {
